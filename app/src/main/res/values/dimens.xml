@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alto_logo">190dp</dimen>
+    <dimen name="margen_sup_logo">50px</dimen>
+    <dimen name="btn_login_width">350dp</dimen>
+    <dimen name="btn_login_height">61dp</dimen>
+    <dimen name="register_margin_top">25dp</dimen>
+    <dimen name="input_width">300dp</dimen>
+    <dimen name="input_padding">15dp</dimen>
+</resources>

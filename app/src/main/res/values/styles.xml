@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--style name="inputs_login_style" parent="@android:style/TextAppearance">
+        <item name="android:background">@drawable/rounder_inputs</item>
+        <item name="android:layout_width">@dimen/input_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/input_padding</item>
+    </style-->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/negro</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+</resources>
